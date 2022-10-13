@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Osawmonyi Igbineweka
+- 👀 I’m interested in Combining Finance with Data Analysis
+- 🌱 I’m currently learning Trading Algorithms via use of Python
+- 📫 How to reach me: Here's my link to my linkedin Profile: https://www.linkedin.com/in/osamwonyi-igbineweka-387702207/
